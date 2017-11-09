@@ -30,7 +30,7 @@
     <repository>
       <id>remote</id>
       <name>release2.1</name>
-      <url>https://github.com/laxmi82/CLP/tree/release2.1</url>
+      <url>refs/remotes/origin/release2.1</url>
     </repository>           
   </distributionManagement>
 
