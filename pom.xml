@@ -31,8 +31,7 @@
       <id>CLP</id>
       <name>release2.1</name>
       <url>https://github.com/laxmi82/CLP.git</url>
-    </repository>
-           
+    </repository>           
   </distributionManagement>
 
   <build>
